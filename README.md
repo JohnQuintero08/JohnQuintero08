@@ -4,6 +4,8 @@
 I'm John Quintero, <strong>Data Scientist</strong> from Colombia but I started in tech as Front-End developer.
 </p>
 
+<p>📫 How to reach me: <a>john08quinteroc@gmail.com</a></p>
+
 <h3>Things I like code with</h3>
 
 <h4>ML/DS</h4>
@@ -27,8 +29,12 @@ I'm John Quintero, <strong>Data Scientist</strong> from Colombia but I started i
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+<h3>Blog posts</h3>
+
+<ul>
+<li></li>
+</ul>
 
 
 
