@@ -2,6 +2,9 @@
 
 <p>Welcome to my page.</br> 
 I'm John Quintero, <strong>Data Scientist</strong> from Colombia but I started in tech as Front-End developer.
+I'm a data scientist passionate about AI, machine learning, and automation. I enjoy working on freelance projects, exploring web scraping, data engineering, and model deployment. Always learning and building cool stuff with Python, SQL, and cloud tools. 🚀
+
+Check out my projects below! 🔍💻
 </p>
 
 <p>📫 How to reach me: <a>john08quinteroc@gmail.com</a></p>
