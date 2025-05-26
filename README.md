@@ -36,7 +36,7 @@ Check out my projects below! 🔍💻
 
 <h3>My portfolio</h3>
 
-<a href='https://fantasy-satellite-863.notion.site/Portfolio-1fdc1b9d5f8780c2bd39e82526049129'>Check my portafolio here!</a>
+<p>Find all projects bellow or <a href='https://fantasy-satellite-863.notion.site/Portfolio-1fdc1b9d5f8780c2bd39e82526049129'>Check my portafolio here!</a> </p>
 
 
 
