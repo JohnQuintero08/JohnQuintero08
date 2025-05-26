@@ -2,9 +2,8 @@
 
 <p>Welcome to my page.</br> 
 I'm John Quintero, <strong>Data Scientist</strong>.
-I'm passionate about AI, machine learning, and automation. I enjoy working on freelance projects, exploring web scraping, data engineering, and model deployment. Always learning and building cool stuff with Python, SQL, and cloud tools. 🚀
+I'm passionate about AI, machine learning, and automation. I enjoy working on freelance projects, exploring web scraping and model deployment. Always learning and building cool stuff with Python, SQL, and cloud tools. 🚀
 
-Check out my projects below! 🔍💻
 </p>
 
 <p>📫 How to reach me: <a>john08quinteroc@gmail.com</a></p>
@@ -36,7 +35,8 @@ Check out my projects below! 🔍💻
 
 <h3>My portfolio</h3>
 
-<p>Find all projects bellow or <a href='https://fantasy-satellite-863.notion.site/Portfolio-1fdc1b9d5f8780c2bd39e82526049129'>Check my portafolio here!</a> </p>
+<p>  🔍💻
+Find all projects bellow or <a href='https://fantasy-satellite-863.notion.site/Portfolio-1fdc1b9d5f8780c2bd39e82526049129'>Check my portafolio here!</a> </p>
 
 
 
