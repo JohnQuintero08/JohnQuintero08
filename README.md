@@ -1,7 +1,7 @@
 <h2>Hey there! Nice to see you.👋</h2>
 
 <p>Welcome to my page.</br> 
-I'm John Quintero, <strong>Data Scientist</strong>.
+I'm John Quintero, <strong>Data Scientist</strong> and <strong>AI engineer</strong>.
 I'm passionate about AI, machine learning, and automation. I enjoy working on freelance projects, exploring web scraping and model deployment. Always learning and building cool stuff with Python, SQL, and cloud tools. 🚀
 
 </p>
